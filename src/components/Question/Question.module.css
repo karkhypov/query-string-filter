@@ -1,0 +1,11 @@
+.question {
+  display: block;
+  justify-content: center;
+  width: fit-content;
+  font-size: 25px;
+  margin: 0;
+  margin-right: 15px;
+  padding: 25px;
+  border: 2px solid gray;
+  border-radius: 5px;
+}

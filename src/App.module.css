@@ -1,0 +1,17 @@
+.app {
+  padding: 10px;
+}
+
+.chips {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.button {
+  cursor: pointer;
+}
+
+.questions {
+  display: flex;
+  font-weight: 600;
+}
